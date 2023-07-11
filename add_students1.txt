@@ -1,0 +1,16 @@
+Reg No:3
+Name:manoj
+Mark1:100
+Mark2:200
+Mark3:300
+Total:600
+Percentage:200.000000
+Grade:A
+Reg No:5
+Name:roman
+Mark1:30
+Mark2:100
+Mark3:100
+Total:230
+Percentage:76.666664
+Grade:A

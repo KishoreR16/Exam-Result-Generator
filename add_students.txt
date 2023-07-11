@@ -1,0 +1,32 @@
+Reg No:1
+Name:kishore
+Mark1:3
+Mark2:4
+Mark3:5
+Total:12
+Percentage:4.000000
+Grade:C
+Reg No:2
+Name:rahul
+Mark1:4
+Mark2:5
+Mark3:6
+Total:15
+Percentage:5.000000
+Grade:C
+Reg No:3
+Name:roman
+Mark1:10
+Mark2:20
+Mark3:30
+Total:60
+Percentage:20.000000
+Grade:B
+Reg No:5
+Name:rahul
+Mark1:10
+Mark2:2
+Mark3:0
+Total:12
+Percentage:4.000000
+Grade:C
